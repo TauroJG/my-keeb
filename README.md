@@ -13,3 +13,6 @@ Although I wasn't able to work much today, during the hour and a half that I did
 From sixth to ninth period, I finished designing the PCB. It took me a long time because I placed the diodes incorrectly on **all** the keys, so I had to correct them manually. I also had to redo all the wiring. Now, there are no important errors showing up in the DRC.
 
 Today, I only worked for one hour. During this hour, I added the keycaps to the 3D model and corrected the repository by adding the .zip file.
+
+
+Today, I worked for around two hours, during which I completed the 3D modeling step. I still need to export the files and add the connection pins.
