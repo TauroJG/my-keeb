@@ -1,18 +1,8 @@
 # my-keeb
 
-During my first hour, I have been sketching and designing what I want my keyboard to look like. For now, I want it to have a personal style inspired by video games and music. It will be a 60% layout, featuring three custom keys and a knob shaped like a vinyl record. I will now begin working on the detailed design of the case, and afterward, I will try creating it from different angles.
+In this project, I managed to create a keyboard from scratch, from its PCB to its 3D model. Honestly, this was my first real experience with programming and with creating something from the ground up.
+I decided to create this project because, after Macondo, I fell in love with this kind of thing. Before this, I mostly focused on drawing in my projects, but after becoming interested in Hack Club, I went to their website, and from the moment I saw this program, I got really excited about the possibilities.
+Hack Club has opened doors and possibilities that I never thought were possible. In this repository, you will find the journal where I recorded what happened throughout the process. I tried to update it every hour, but there are some longer gaps between entries. You will also find pictures of all the stages the project went through, as well as all the files needed for everything.
 
-
-During my second hour, I focused on drawing the design and painting the keyboard in my own style.
-
-During my third and fourth hours, I managed to create the schematic for the keyboard in KiCad. It was a little difficult because the process was somewhat confusing, especially considering the type of keyboard I want to make, but in the end, I managed to complete the entire schematic.
-
-
-Although I wasn't able to work much today, during the hour and a half that I did work (my fifth hour) I organized all the work from yesterday's schematic directly onto the PCB. I arranged all the keys according to the layout I wanted, positioned the stabilizers, and added the OLED screen.
-
-From sixth to ninth period, I finished designing the PCB. It took me a long time because I placed the diodes incorrectly on **all** the keys, so I had to correct them manually. I also had to redo all the wiring. Now, there are no important errors showing up in the DRC.
-
-Today, I only worked for one hour. During this hour, I added the keycaps to the 3D model and corrected the repository by adding the .zip file.
-
-
-Today, I worked for around two hours, during which I completed the 3D modeling step. I still need to export the files and add the connection pins.
+Overall, I created a fairly standard keyboard, even though I would have liked to make something more impressive. However, because of my inexperience and the limited time I had left, I decided to play it safe. In my initial sketch, I designed something much more ambitious that I will probably make once I have the chance to build it physically, and I think I managed to accomplish most of the things I originally planned.
+With this project, I learned how to write firmware, how to do 3D modeling (although still very basically), and how to build a keyboard in general. I know that once it arrives, I will learn many more things, but above all, this project motivates me to keep going: to keep learning, keep programming, and keep making increasingly incredible things. Things that I know my past self, just a few months ago, would never have believed I could make. This project is just the beginning of what I know will become something much bigger.
